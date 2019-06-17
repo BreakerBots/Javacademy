@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Set2Problem1 {
+public class Set1withInput {
 	public static void main(String[] args) {
 		// Small note - these are just examples to show how input works
 		// but usually, you should prompt the user to enter some input
