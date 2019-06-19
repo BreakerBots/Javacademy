@@ -123,7 +123,7 @@ public class Set2 {
 			System.out.println("#" + (i + 1) + ": " + foods[i]);
 		}
 
-		//			Challenges
+		//	Challenges ********************************************
 		
 		// Problem 1
 		int[] teamNumbers = { 5104, 4255, 6506 };
@@ -201,7 +201,6 @@ public class Set2 {
 			fib[i] = fib[i - 2] + fib[i - 1];
 		}
 		System.out.println("The nth term is " + fib[n - 1]);
-//			The Fibonacci sequence is a recursive set of numbers where the next term is the sum of the two terms before it, starting with 1 and 1. Write a program that will print out the “nth” term of the Fibonacci sequence when the user enters a number n.
 
 	}
 }
